@@ -1,0 +1,5 @@
+fish AND wine, 10
+wine OR cake, 6
+beef AND NOT soup, 8
+spicy AND fries, 5
+water OR salad, 4

@@ -1,0 +1,8 @@
+dessert: cake, ice-cream
+drink: wine, beer
+entree: fish, beef
+appetizer: soup, salad
+side: rice, fries
+bread: white, wheat
+sauce: spicy, mild
+drink2: soda, water

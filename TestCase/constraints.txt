@@ -1,0 +1,6 @@
+NOT wine OR NOT ice-cream
+NOT beef OR salad
+NOT soup OR fish
+NOT fries OR beef
+NOT spicy OR water
+NOT soda OR cake
